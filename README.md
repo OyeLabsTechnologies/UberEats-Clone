@@ -33,6 +33,8 @@ MoonFood by Oyelabs helps you launch a scalable, customizable UberEats-like food
 </p>
 <h3>Planning to launch your own delivery platform?</h3>
 <p>
-  Reach out to us at <a href="mailto:grow@oyelabs.com">grow@oyelabs.com</a> or visit 
-  <a href="https://www.oyelabs.com" target="_blank">www.oyelabs.com</a> to get started. Let’s build your next big venture together!
+  Reach out!
+  📧 <a href="mailto:myoyelabs@gmail.com">myoyelabs@gmail.com</a><br>
+  🌐 <a href="https://www.oyelabs.com">www.oyelabs.com</a>
 </p>
+</section>
