@@ -2,7 +2,7 @@
 MoonFood by Oyelabs helps you launch a scalable, customizable UberEats-like food delivery app effortlessly.
 <h3>MOONFOOD – A Customizable UberEats Clone for Your Food Delivery Business</h3>
 <p>
- strong>MoonFood</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/ubereats-clone/" target="_blank">UberEats clone</a> designed for entrepreneurs  looking to launch a dynamic and fully customizable food delivery platform. Whether you're targeting a local city or multiple regions, MoonFood lets you bring your unique vision to life with tailored features, intuitive UI, and a smooth customer experience.
+<strong>MoonFood</strong> by Oyelabs is a powerful <a href="https://oyelabs.com/ubereats-clone/?utm_source=Social+&utm_medium=github&utm_campaign=github_listing" target="_blank">UberEats Clone</a> designed for entrepreneurs looking to launch a dynamic and fully customizable food delivery platform. Whether you're targeting a local city or multiple regions, MoonFood lets you bring your unique vision to life with tailored features, intuitive UI, and a smooth customer experience.
 </p>
 
 <p>
